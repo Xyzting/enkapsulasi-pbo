@@ -48,20 +48,20 @@ Program akan menampilkan alert jika terdapat:
 
 ### GUI - Validate Data
 
-![Validate data](/pertemuan5/screenshoots/validate-data.png)
+![Validate data](/screenshoots/validate-data.png)
 
 ### GUI - Validasi Error Form Kosong
 
-![Validasi form kosong](/pertemuan5/screenshoots/validasi-empty.png)
+![Validasi form kosong](/screenshoots/validasi-empty.png)
 
 ### GUI - Validasi Nama Mengandung Angka
 
-![Validasi mengandung angka](/pertemuan5/screenshoots/validasi-nama.png)
+![Validasi mengandung angka](/screenshoots/validasi-nama.png)
 
 ### GUI - Validasi Umur kurang dari 0
 
-![Validasi umur kurang dari 0](/pertemuan5/screenshoots/validasi-umur.png)
+![Validasi umur kurang dari 0](/screenshoots/validasi-umur.png)
 
 ### GUI - Validasi Jurusan memiliki minimal karakter 3
 
-![Validasi jurusan memiliki minimal karakter](/pertemuan5/screenshoots/validasi-jurusan.png)
+![Validasi jurusan memiliki minimal karakter](/screenshoots/validasi-jurusan.png)
