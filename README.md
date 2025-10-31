@@ -46,7 +46,7 @@ Program akan menampilkan alert jika terdapat:
 
 ## Screenshots Aplikasi
 
-### GUI - Validate Data
+### GUI - Valid Data
 
 ![Validate data](/screenshoots/validate-data.png)
 
