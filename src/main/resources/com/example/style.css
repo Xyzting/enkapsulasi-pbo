@@ -1,0 +1,15 @@
+.title {
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+}
+
+.btn-primary {
+  -fx-background-color: #0059ff;
+  -fx-text-fill: white;
+  -fx-padding: 8 15;
+  -fx-background-radius: 6;
+}
+
+.btn-primary:hover {
+  -fx-background-color: #003fcc;
+}
